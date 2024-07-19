@@ -10,7 +10,7 @@
  namespace Bcgov\Theme\Block;
 
 return [
-	'title'      => __( '2x2 Picture and Text Grid', 'bcgov_blocks_theme' ),
+	'title'      => __( '2x3332 Picture and Text Grid', 'bcgov_blocks_theme' ),
 	'categories' => [ 'bcgov-blocks-theme-general' ],
 	'content'    => '<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
 	<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:media-text {"align":"full","mediaId":4557,"mediaLink":"none","mediaType":"image","imageFill":false,"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"},"margin":{"top":"0","right":"0","bottom":"0","left":"0"}}},"backgroundColor":"custom-color-1","className":"is-style-default"} -->
